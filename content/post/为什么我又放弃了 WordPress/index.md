@@ -3,7 +3,7 @@ title: "为什么我又放弃了 WordPress"
 description: "先是踩坑 WP，再是被打，最后放弃。。。"
 date: "2022-08-10 03:30:00+0800"
 slug: "why-i-give-up-wordpress"
-image: "wordpress-log.png"
+image: "wordpress-logo.png"
 tags:
     - 博客
     - 折腾
